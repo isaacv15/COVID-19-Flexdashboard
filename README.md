@@ -1,3 +1,6 @@
+THIS CODE IS WRITTEN IN THE CODING LANGUAGE "R" AND SPECIFIC PACKAGES ARE REQUIRED TO BE INTSTALLED BEFORE THE APPLICATION OF THIS CODE.
+
+
 ---
 title: "Isaac-FlexDashboard"
 output: 
@@ -5,7 +8,7 @@ output:
     orientation: columns
     vertical_layout: fill
 ---
-
+THESE ARE THE REQIURED PACKAGES
 ```{r setup, include=FALSE}
 library(flexdashboard)
 library(tidyverse)
